@@ -1,7 +1,12 @@
-# Dependency directory
-# https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git
-node_modules
-ios/RCTWebRTC.xcodeproj/xcuserdata
-ios/RCTWebRTC.xcodeproj/project.xcworkspace
-.DS_Store
-.idea
+# IDE Files
+#-------------------------
+/nbproject/
+.idea/*
+
+## Sublime Text cache files
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+
